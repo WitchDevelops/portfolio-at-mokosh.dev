@@ -144,3 +144,27 @@ body {
         color: var(--accent-green);
     }
 }
+
+
+/* scrollbar */
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+
+  ::-webkit-scrollbar-track {
+    background: #BBBBC4;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #31543F;
+    
+    border-radius: 8px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #4B8161;
+  }
