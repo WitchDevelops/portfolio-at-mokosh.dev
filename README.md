@@ -4,8 +4,6 @@ It's a repository for my personal portfolio.
 
 Hosted on Netlify at [mokosh.dev](https://mokosh.dev/).
 
-# Tech stack
+# TODO
 
-* React (set up using Vite)
-* react router
-* react hooks
+everything
